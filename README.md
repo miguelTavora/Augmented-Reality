@@ -23,7 +23,7 @@
 
 <table>
   <tr>
-    <td><img src="./face_recognition/mark_images/result2.png" alt="drawing" width="300" /></td>
+    <td><img src="./face_recognition/mark_images/result.png" alt="drawing" width="300" /></td>
 </tr>
   <tr>
     <td style="text-align: center;"><em>6. Result image</em></td>
